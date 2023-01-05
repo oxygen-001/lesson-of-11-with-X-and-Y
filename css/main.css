@@ -13,6 +13,7 @@ ul {
   list-style: none;
 }
 
+/* Section 2Y */
 .Text-1 {
   position: absolute;
   width: 673px;
@@ -58,20 +59,19 @@ ul {
   margin-top: 300px;
 }
 
-h3 {
+.cards h3 {
   font-family: "Liberation Serif";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
   line-height: 44px;
-  /* identical to box height, or 147% */
 
   text-align: center;
 
   color: #000000;
 }
 
-p {
+.cards p {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -114,13 +114,143 @@ span {
 }
 
 .image-1 {
- position: relative;
- bottom: 585px;
- left: 1120px;
+  position: relative;
+  bottom: 585px;
+  left: 1120px;
 }
 
 .image-2 {
-    position: relative;
-    bottom: 585px;
-    left: 575px;
-   }
+  position: relative;
+  bottom: 585px;
+  left: 575px;
+}
+
+/* Section 2Y */
+
+/* /* Section 4Y */
+
+.title-2 {
+  font-family: "Liberation Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height, or 147% */
+
+  color: #000000;
+}
+
+.Text-2 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  /* or 178% */
+
+  color: #000000;
+}
+
+.title-3 {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  /* or 122% */
+
+  color: #000000;
+}
+
+.Text-3 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  /* or 178% */
+
+  color: #000000;
+}
+
+.title-4 {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height, or 147% */
+
+  color: #000000;
+}
+
+.Text-4 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  /* or 178% */
+
+  color: #000000;
+}
+
+.image-3 {
+  position: absolute;
+  top: 1100px;
+  right: 200px;
+}
+
+.section-4 {
+  margin-top: 140px;
+  margin-left: 40px;
+}
+
+/* /* Section 4Y */
+
+/* /* Section 5Y */
+.section-5 {
+  background-color: #000000;
+  width: 1440px;
+  height: 313px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Text-5 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  /* or 178% */
+
+  color: #ffffff;
+}
+
+.susan {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.Navigations {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section-5 a {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #8a8a8a;
+}
+
+/* /* Section 5Y */
